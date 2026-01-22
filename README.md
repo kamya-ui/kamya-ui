@@ -1,5 +1,12 @@
-<p align="centre">
-        Hi👋 kamya here! I'm a computer science student and tech learner who likes exploring and love turning ideas into working code. I also enjoy creating small projects, experimenting, learning and continuously improving my skills with every commit.
+<img align="right" src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="180" style="margin-left: 20px;">
+<div>
+  <h3>Hi 👋 kamya here! I'm a computer science student and tech learner <br>
+          who likes exploring and love turning ideas into working code. <br>
+          I also enjoy creating small projects, experimenting, learning and <br>
+          continuously improving my skills with every commit.</h3>
+</div>
+<br clear="both">
+<div style="height: 1px; background-color: #21262d; margin-top: -15px; margin-bottom: 10px;"></div>
 
 <br>
 <hr>
@@ -34,7 +41,8 @@
   </a>
 </p>
 
-
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDk5MG9ic3Njd2p6NzlhcHlnM2htMWVrYnU2MmwzdG52Zjh5OHUyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zFpTScj4EeUxybJO1U/giphy.gif" width="180" style="margin-left: 20px;">
+<div>
 
 
 
