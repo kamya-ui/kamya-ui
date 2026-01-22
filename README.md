@@ -1,7 +1,7 @@
 <p align="center">
         Hi👋 kamya here! I'm a computer science student and tech learner who likes exploring and love turning ideas into working code. I also enjoy creating small projects, experimenting, learning and continuously improving my skills with every commit.
 
-### 🛠 Tech Stack
+<h3 align="center">📍Languages & skilla </h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
