@@ -1,9 +1,12 @@
-<p align="center">
+<p align="centre">
         Hi👋 kamya here! I'm a computer science student and tech learner who likes exploring and love turning ideas into working code. I also enjoy creating small projects, experimenting, learning and continuously improving my skills with every commit.
 
-<h3 align="center">📍Languages & skills </h3>
+<br>
+<hr>
 
-<p align="center">
+<h3 align="center">📍Languages & skills </h3> 
+
+  <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -14,19 +17,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 </p>
 
+<br>
+<hr>
+
 <h3 align="center">📩 Connect </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamya-bhawsinghka/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://www.instagram.com/__.kamya._/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35"/>
+  <a href="https://www.instagram.com/__.kamya._/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
   </a>
-  <a href="https://t.me/kamya_ya">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="35"/>
+  <a href="https://t.me/kamya_ya/" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
   </a>
 </p>
+
 
 
 
