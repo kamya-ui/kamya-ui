@@ -41,8 +41,10 @@
   </a>
 </p>
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDk5MG9ic3Njd2p6NzlhcHlnM2htMWVrYnU2MmwzdG52Zjh5OHUyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zFpTScj4EeUxybJO1U/giphy.gif" width="180" style="margin-left: 20px;">
-<div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDk5MG9ic3Njd2p6NzlhcHlnM2htMWVrYnU2MmwzdG52Zjh5OHUyeSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zFpTScj4EeUxybJO1U/giphy.gif" alt="fun gif" />
+</p>
+
 
 
 
