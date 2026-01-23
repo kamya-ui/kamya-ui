@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="180" style="margin-left: 20px;">
+<img align="right" src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="150" style="margin-left: 20px;">
 <div>
   <h3>Hi 👋 kamya here! I'm a computer science student and tech learner <br>
           who likes exploring and love turning ideas into working code. <br>
@@ -11,7 +11,7 @@
 <br>
 <hr>
 
-<h3 align="center">📍Languages & skills </h3> 
+<h3 align="center"><b>📍Languages & Skills </b></h3>
 
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -34,7 +34,7 @@
 <br>
 <hr>
 
-<h3 align="center">📩 Connect </h3>
+<h3 align="center"><b>📩 Connect </b></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamya-bhawsinghka/">
