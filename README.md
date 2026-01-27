@@ -34,6 +34,11 @@
 <br>
 <hr>
 
+![Snake animation](https://github.com/kamya-ui/kamya-ui/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+<hr>
+
 <h3 align="center"><b>📩 Connect </b></h3>
 
 <p align="center">
