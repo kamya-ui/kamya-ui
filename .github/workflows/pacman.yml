@@ -1,0 +1,28 @@
+name: Pac-Man Pastel Animation
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Soft Pastel Pac-Man
+        uses: Platane/snk@v3
+        with:
+          github_user_name: kamya-ui
+          outputs: |
+            dist/pacman-pastel.svg?color_snake=#FFE066&color_dots=#FFB3C6,#CDB4DB,#A2D2FF,#BDE0FE,#FFC8DD
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
