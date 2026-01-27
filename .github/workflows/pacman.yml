@@ -1,26 +1,26 @@
-name: Generate Pac-Man Animation
+name: Pastel Pac-Man Style Snake
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs twice a day
   workflow_dispatch:
+  schedule:
+    - cron: "30 */12 * * *"
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate Pac-Man style
+      - name: Generate pastel snake
         uses: Platane/snk@v3
         with:
           github_user_name: kamya-ui
           outputs: |
-            dist/pacman.svg?theme=pacman
-            dist/pacman-dark.svg?theme=pacman&palette=github-dark
+            dist/pastel-pacman.svg?color_snake=#FFE066&color_dots=#FFB3C6,#CDB4DB,#A2D2FF,#BDE0FE,#FFC8DD
 
-      - name: Publish output
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
