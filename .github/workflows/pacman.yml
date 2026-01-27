@@ -1,4 +1,4 @@
-name: generate pacman animation
+name: generate pacman
 
 on:
   schedule:
@@ -10,20 +10,20 @@ on:
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      # This action generates the Pacman maze based on your commits
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3
+      - uses: lowlighter/metrics@latest
         with:
-          github_user_name: kamya-ui
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: kamya-ui
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          # This is the "Pacman" magic
+          plugin_isocalendar_duration: half-year
+          # Change "snake" to "pacman" for the maze and ghosts
+          # We will use CSS to inject the Pastel colors
+          config_order: isocalendar
         env:
           # This customizes the "Snake" into a "Pacman" style maze
           # Format: #background #pacman #ghost1 #ghost2 #ghost3 #ghost4
