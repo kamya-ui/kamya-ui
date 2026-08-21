@@ -3,7 +3,7 @@
   <h3>Hi 👋 kamya here! I'm a computer science student and tech learner <br>
           who likes exploring and love turning ideas into working code. <br>
           I also enjoy creating small projects, experimenting, learning and <br>
-          continuously improving my skills with every commit.</h3>
+          continuously improving my skills with every commit.</h3>   
 </div>
 <br clear="both">
 <div style="height: 1px; background-color: #21262d; margin-top: -15px; margin-bottom: 10px;"></div>
